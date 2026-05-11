@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greater-london-2026-q2-37-hounslow-zeabur.zeabur.app/sitemap.xml
+Sitemap: https://greater-london-2026-q2-37-houn.zeabur.app/sitemap.xml
